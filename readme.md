@@ -1,3 +1,10 @@
+// 攻速
+// https://baijiahao.baidu.com/s?id=1634512632263783063&wfr=spider&for=pc
+// 初始属性
+// https://wenku.baidu.com/view/4f2f4c9903d276a20029bd64783e0912a2167c65.html
+// 全英雄
+// https://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2019/05/20190509_zh1_440_9/image001.jpg
+
 <!-- 计算公式 -->
 http://www.sohu.com/a/196759742_99965484
 
